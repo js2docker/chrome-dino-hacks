@@ -1,0 +1,7 @@
+Use the following codes:
+Arcade Mode
+Runner.instance_.setArcadeMode(true);
+Invincibility
+Runner.instance_.gameOver = function(){};
+Speed (You change the 100 to any number you wish)
+Runner.instance_.setSpeed(100);
